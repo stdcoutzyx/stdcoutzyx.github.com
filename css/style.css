@@ -616,6 +616,13 @@ a {
 #header .header-nav .social a.weibo:hover {
   border: 1px solid #aaf;
 }
+#header .header-nav .social a.csdn {
+  background: url("/img/csdn.png") center no-repeat #aaf;
+  border: 1px solid #aaf;
+}
+#header .header-nav .social a.csdn:hover {
+  border: 1px solid #aaf;
+}
 #header .header-nav .social a.rss {
   background: url("/img/rss.png") center no-repeat #ef7522;
   border: 1px solid #ef7522;
