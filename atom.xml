@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://stdcoutzyx.github.io/"/>
-  <updated>2016-03-25T09:41:42.000Z</updated>
+  <updated>2016-03-25T09:43:48.000Z</updated>
   <id>http://stdcoutzyx.github.io/</id>
   
   <author>
@@ -20,13 +20,13 @@
     <link href="http://stdcoutzyx.github.io/2016/03/25/%E5%AE%83%E6%98%AF%E8%BF%99%E6%A0%B7%E4%B8%80%E4%B8%AA%E5%9C%B0%E6%96%B9/"/>
     <id>http://stdcoutzyx.github.io/2016/03/25/它是这样一个地方/</id>
     <published>2016-03-25T09:12:11.000Z</published>
-    <updated>2016-03-25T09:41:42.000Z</updated>
+    <updated>2016-03-25T09:43:48.000Z</updated>
     
     <content type="html">&lt;pre&gt;&lt;code&gt;它是这样一个地方
 我来的时候，迎着红润的朝阳
 我走的时候，面向西南方那烧的滚烫的阳光
-
-它是这样一个地方
+&lt;/code&gt;&lt;/pre&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;pre&gt;&lt;code&gt;它是这样一个地方
 我来的时候，眼里流着泪笑着看父亲离去的身影
 我走的时候，脸上笑着心里流着泪不敢直面同学的感伤
 
@@ -55,13 +55,7 @@
       &lt;pre&gt;&lt;code&gt;它是这样一个地方
 我来的时候，迎着红润的朝阳
 我走的时候，面向西南方那烧的滚烫的阳光
-
-它是这样一个地方
-我来的时候，眼里流着泪笑着看父亲离去的身影
-我走的时候，脸上笑着心里流着泪不敢直面同学的感伤
-
-它是这样一个地方
-我来的时候，银行卡取钱坐火车都是我不熟
+&lt;/code&gt;&lt;/pre&gt;
     
     </summary>
     
